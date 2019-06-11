@@ -118,6 +118,14 @@
 
 	Closes #10
 	```
+Further references :
+1. https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+- Conventional Commits
+A specification for adding human and machine readable meaning to commit messages
+
+2. https://www.gun.io/blog/how-to-github-fork-branch-and-pull-request
+- How to GitHub: Fork, Branch, Track, Squash and Pull Request
+	
 
 <div id="merging"></div>
 
